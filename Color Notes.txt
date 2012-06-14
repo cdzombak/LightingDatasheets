@@ -1,4 +1,9 @@
-* color typically comes in 20 x 24 inch sheets
+* color comes in 20 x 24 inch sheets (at least for Rosco)
 
 * Most Source Four ellipsoidals take 6.25" square gels
-* Source Four 14º ellipsoidals and S4 Pars take 7.4" gels
+* Source Four 14º ellipsoidals and S4 Pars take 7.5" gels
+
+One sheet of color can yield:
+* (9) 6.25" squares
+* (12) 6" x 6.25" squares (these will fit in S4 6" frames fine; just cut carefully)
+* (6) 7.5" squares
